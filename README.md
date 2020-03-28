@@ -10,12 +10,14 @@
 # 体系
 
 1. 科学（生命科学、物理、天文、医学）
-    - [医学通识50讲][101]
+  - [医学通识50讲][101]
 2. 商学院（金融、经济、商业、管理）
+  - [行为金融学][201]
 3. 人文社科（历史哲学、文学艺术、社会科学）
-    - [武志红的心理学课][301]
+  - [武志红的心理学课][301]
 4. 能力（生活方式、个人能力）
 5. 视野（新思想、新科技、新机遇）
 
 [101]: https://github.com/jiangxia/reading-notes/blob/master/posts/医学通识50讲.md
+[201]: https://github.com/jiangxia/reading-notes/blob/master/posts/行为金融学.md
 [301]: https://github.com/jiangxia/reading-notes/blob/master/posts/武志红的心理学课.md
